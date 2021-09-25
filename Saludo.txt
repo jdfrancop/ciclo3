@@ -1,1 +1,3 @@
-Hola chicos este es nuestro espacio de trabajo, por favor cuando hagan un commit comenten el cambio y su nombre, ejemplo: git commit -m "agrego boton salome"
+Hola chicos este es nuestro espacio de trabajo, por favor cuando hagan un commit comenten el cambio y su nombre, ejemplo: git commit -m "agrego boton salome".
+
+Cualquier duda hazmela saber 
