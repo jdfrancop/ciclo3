@@ -1,19 +1,91 @@
 *{
     padding: 0;
     margin: 0;
-
 }
 
-
+body{
+    background-color: lightgray;
+}
 #nav_drawer{
-    width: 10%;
-    height: 400px;
-    background-color: gray;
-    float: right; 
+    width: 20%;
+    height: 415px;
+    background-color: aqua;
+    float: right;
     
 }
+
+.ima{
+    align-items: center;
+    display:block;
+    margin:auto;
+}
+h1{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
 #logo_navbar{
-    width: 10%;
-    float:  right;
+    width: 120px;
+}
+
+#link_buttonreg_nav{
+    text-decoration: none;
+    color: azure;
+}
+
+#link_buttonreg_nav:hover{
+    color: blue;
+}
+
+
+#buttonreg_nav{
+    position: relative;
+    left:60px;
+    top: 260px;
+    border-radius: 20px;
+    padding: 3px;
+    background-color: black;
+}
+
+#btn_Registro:hover{
+    background-color: white;
+}
+
+
+#form_registrarse input{
+    display: block;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 100%;
+
+}
+
+#form_registrarse {
+
+    background-color: lightskyblue;
+    width:200px;
+    margin: 0 auto;
+
+}
+
+#btn_registrar_usuario{
+    border-radius: 20px;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+
+}
+#btn_registrar_usuario:hover{
+    background-color: white;
+    color: blue;
     
 }
+
