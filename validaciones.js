@@ -1,4 +1,3 @@
-
 function validar_nombre_usuario(string)
 {
     const nombre_usuario=document.getElementById("in_nombre_usuario").value;
